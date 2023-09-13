@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://marciogomes-jr.github.io/net-flix-page/
+https://650207e4551b07362aa2cd2d--kaleidoscopic-baklava-781a19.netlify.app/
 
 **Login da Netflix** é a interface de login da **NETFLIX**, criado para testar o aprendizado de HTML5 e CSS com responsividade e também a capacidade de criação baseada em projeto, com atenção a detalhes para chegar no resultado pretendido.
 
